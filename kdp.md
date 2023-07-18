@@ -12,7 +12,6 @@ We will also delve into the details of ChatGPT, exploring how it works, what mak
 
 Whether you are a developer looking to create more advanced conversational AI systems or simply interested in learning more about this exciting technology, this book will provide you with a comprehensive overview of the mechanics of ChatGPT and conversational AI as a whole.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
