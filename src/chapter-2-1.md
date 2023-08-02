@@ -1,4 +1,4 @@
-Chapter: Definition of Conversational AI
+Definition of Conversational AI
 ========================================
 
 In this chapter, we will define conversational AI and explore its significance in the field of artificial intelligence. Conversational AI refers to the technology and systems designed to enable machines to engage in human-like conversations with users, allowing for natural and interactive communication.

@@ -1,4 +1,4 @@
-Chapter: Introduction to Natural Language Processing (NLP)
+Introduction to Natural Language Processing (NLP)
 ==========================================================
 
 Natural Language Processing (NLP) is a field of study that focuses on enabling computers to understand, interpret, and generate human language. It lies at the core of conversational AI systems like ChatGPT, facilitating meaningful interactions between humans and machines. In this chapter, we will provide an overview of NLP, its challenges, and the fundamental techniques used to process and analyze natural language.

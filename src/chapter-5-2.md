@@ -1,4 +1,4 @@
-Chapter: NLP Techniques Used in ChatGPT
+NLP Techniques Used in ChatGPT
 =======================================
 
 In this chapter, we will explore the natural language processing (NLP) techniques that are employed in ChatGPT to achieve its impressive conversational AI capabilities. ChatGPT utilizes a variety of NLP techniques to understand and generate human-like responses. Let's delve into some of the key techniques used in ChatGPT.
