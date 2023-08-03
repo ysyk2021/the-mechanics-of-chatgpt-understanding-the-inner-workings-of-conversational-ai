@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Explanation of the importance of understanding conversational AI](chapter-1-2.md)
   - [The role of ChatGPT in conversational AI](chapter-1-3.md)
 - [Chapter 1: Basics of Conversational AI](chapter-2.md)
