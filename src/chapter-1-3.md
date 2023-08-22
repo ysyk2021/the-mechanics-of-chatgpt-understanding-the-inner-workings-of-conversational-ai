@@ -1,5 +1,4 @@
-The Role of ChatGPT in Conversational AI
-=================================================
+
 
 ChatGPT, a variant of the widely-known GPT (Generative Pre-trained Transformer) model, plays a significant role in the development and advancement of conversational AI. In this chapter, we explore the key contributions and applications of ChatGPT in the field of conversational AI.
 

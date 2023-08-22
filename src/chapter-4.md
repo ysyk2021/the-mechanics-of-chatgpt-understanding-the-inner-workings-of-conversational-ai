@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Architecture of ChatGPT
-====================================================
+
 
 Overview of ChatGPT's architecture
 ----------------------------------

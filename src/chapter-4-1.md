@@ -1,5 +1,4 @@
-Overview of ChatGPT's Architecture
-===========================================
+
 
 In this chapter, we will provide an in-depth overview of ChatGPT's architecture, illuminating the inner workings of this powerful conversational AI model. Understanding how ChatGPT is structured will enable us to comprehend its capabilities and limitations, and gain insights into its functioning.
 

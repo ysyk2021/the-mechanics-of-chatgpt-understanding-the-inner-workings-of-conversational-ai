@@ -1,5 +1,4 @@
-Chapter 1: Basics of Conversational AI
-======================================
+
 
 Conversational AI is a rapidly evolving technology that enables machines to understand and respond to human language. In this chapter, we will explore the basics of conversational AI, including its definition, different types, and importance in various industries.
 

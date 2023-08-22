@@ -1,5 +1,4 @@
-Chapter 4: NLP Techniques Used in ChatGPT
-=========================================
+
 
 Introduction to Natural Language Processing (NLP)
 -------------------------------------------------

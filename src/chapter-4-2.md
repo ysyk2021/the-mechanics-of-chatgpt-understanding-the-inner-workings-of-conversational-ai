@@ -1,5 +1,4 @@
-Explanation of Each Component in ChatGPT's Architecture
-================================================================
+
 
 In this chapter, we will explore the inner workings of ChatGPT and provide an explanation of each component in its architecture. Understanding these components is essential for gaining insights into how ChatGPT processes information and generates responses in conversational settings.
 
