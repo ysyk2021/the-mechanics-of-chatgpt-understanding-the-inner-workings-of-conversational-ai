@@ -1,5 +1,4 @@
 
-
 Overview of ChatGPT's architecture
 ----------------------------------
 

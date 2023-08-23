@@ -1,5 +1,4 @@
 
-
 In this book, we have explored the mechanics of conversational AI, with a particular focus on ChatGPT. We have delved into the inner workings of this powerful technology, discussing its architecture, training process, and various techniques for improving performance.
 
 Summary of Key Points

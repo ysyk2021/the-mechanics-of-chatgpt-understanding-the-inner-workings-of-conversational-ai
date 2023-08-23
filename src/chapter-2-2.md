@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the different types of conversational AI systems that exist today. Conversational AI encompasses a wide range of technologies and approaches, each with its own unique characteristics and use cases. Let's delve into some of the most common types of conversational AI.
 
 1\. Rule-Based Systems

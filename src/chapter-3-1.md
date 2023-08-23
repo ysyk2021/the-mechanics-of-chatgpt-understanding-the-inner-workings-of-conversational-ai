@@ -1,5 +1,4 @@
 
-
 The development of conversational AI is influenced by various factors that shape its design, capabilities, and impact. In this chapter, we explore key factors that play a significant role in shaping the development of conversational AI systems.
 
 Available Data and Training Resources
