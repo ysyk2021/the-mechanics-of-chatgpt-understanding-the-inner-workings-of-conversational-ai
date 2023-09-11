@@ -1,3 +1,6 @@
+# The Mechanics of ChatGPT: Understanding the Inner Workings of Conversational AI
+
+Book Link: [https://zhengpublishing.com/the-mechanics-of-chatgpt-understanding-the-inner-workings-of-conversational-ai/](https://zhengpublishing.com/the-mechanics-of-chatgpt-understanding-the-inner-workings-of-conversational-ai/)
 
 Conversational AI has become an increasingly important technology in today's world. From chatbots and virtual agents to voice assistants and customer service platforms, conversational AI is changing the way we interact with technology and each other.
 
